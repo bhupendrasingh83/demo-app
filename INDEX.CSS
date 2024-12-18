@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: myfont;
+    src: url(./Gridstar-Regular.otf);
+}
+
+.well{
+    font-family: myfont;
+    margin-top: -18px;
+}
+
+.navbar{
+    font-family: myfont;
+}
+
+
+/* .btn{ */
+
+     /* margin-left: 520px;  */
+     /* margin-top: 10px; */
+/* } */
+#explore{
+
+    color: black;
+}
+
+#col1{
+
+    border: solid 1.5px;
+    background-color: rgb(229, 229, 237);
+}
